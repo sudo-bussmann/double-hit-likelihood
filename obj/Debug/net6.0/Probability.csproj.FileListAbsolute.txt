@@ -1,0 +1,15 @@
+/home/mbussmann/Programming/Scripting/Probability/bin/Debug/net6.0/Probability
+/home/mbussmann/Programming/Scripting/Probability/bin/Debug/net6.0/Probability.deps.json
+/home/mbussmann/Programming/Scripting/Probability/bin/Debug/net6.0/Probability.runtimeconfig.json
+/home/mbussmann/Programming/Scripting/Probability/bin/Debug/net6.0/Probability.dll
+/home/mbussmann/Programming/Scripting/Probability/bin/Debug/net6.0/Probability.pdb
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/Probability.csproj.AssemblyReference.cache
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/Probability.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/Probability.AssemblyInfoInputs.cache
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/Probability.AssemblyInfo.cs
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/Probability.csproj.CoreCompileInputs.cache
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/Probability.dll
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/refint/Probability.dll
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/Probability.pdb
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/Probability.genruntimeconfig.cache
+/home/mbussmann/Programming/Scripting/Probability/obj/Debug/net6.0/ref/Probability.dll
